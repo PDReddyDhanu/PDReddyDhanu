@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palakolanu Dhanunjay Reddy</h1>
-<h3 align="center">Frontend Developer | Tech Enthusiast | Learning TypeScript & AI Integration</h3>
+<h3 align="center">Frontend Developer | Tech Enthusiast | Learning Prommpt Engineering & AI Integration</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PDreddyDhanu" alt="PDreddyDhanu" /></a> </p>
 
