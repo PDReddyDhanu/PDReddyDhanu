@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palakolanu Dhanunjay Reddy</h1>
-<h3 align="center">Frontend Developer | Tech Enthusiast | Learning Prommpt Engineering & AI Integration</h3>
+<h3 align="center">| Aspiring Full Stack Developer
+Open Source Enthusiastic | Learning Prommpt Engineering & AI Integration  | </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PDreddyDhanu" alt="PDreddyDhanu" /></a> </p>
 
@@ -11,6 +12,7 @@
   - [AI ChatBot Assistant](https://pdreddy-dhanu-chat-bot.netlify.app)
   - [Short Music Tunes](https://pdr-tunes.netlify.app)
   - [Hostel Food Feedback System](https://pdreddydhanu.github.io/hostel-food-feedback/)
+  - [Personal Portfolio](https://dhanunportfolio.netlify.app/)
 
 - 📅 Recent Certifications: **Google Generative AI, Web Full Stack, AI-ML by Google-AICTE**
 
@@ -20,7 +22,7 @@
 
 - 📧 Reach me: **palakolanudhanunjayreddy@gmail.com**
 
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1qygxjiiJBszmAOi6ML30qCj6dUzj57Yh/view?usp=sharing)
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1Zp-P_BI3cBnT_fVb1zIkocULXjHVPu-e/view?usp=drive_link)
 
 - ✨ Fun fact: **I enjoy turning real-life problems into smart web-based solutions!**
 
