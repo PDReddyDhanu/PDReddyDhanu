@@ -8,7 +8,8 @@ Open Source Enthusiastic | Learning Prommpt Engineering & AI Integration  | </h3
 
 - 🚀 I’m currently learning **Firebase, React, Flutter, Backend APIs, and TypeScript**
 
-- 👨‍💻 My Portfolio Projects: 
+- 👨‍💻 My Portfolio Projects:
+  - [Hacksprint](https://hacksp.vercel.app/)
   - [AI ChatBot Assistant](https://pdreddy-dhanu-chat-bot.netlify.app)
   - [Short Music Tunes](https://pdr-tunes.netlify.app)
   - [Hostel Food Feedback System](https://pdreddydhanu.github.io/hostel-food-feedback/)
