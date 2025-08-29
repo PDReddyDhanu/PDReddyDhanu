@@ -2,9 +2,9 @@
 <h3 align="center">| Aspiring Full Stack Developer
 Open Source Enthusiastic | Learning Prommpt Engineering & AI Integration  | </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PDreddyDhanu" alt="PDreddyDhanu" /></a> </p>
 
-- 🔭 I’m currently working on **[Hostel Food Feedback System](https://pdreddydhanu.github.io/hostel-food-feedback/)**
+
+- 🔭 I’m currently working on **[Hacksprint](https://hacksprint-rouge.vercel.app/)**
 
 - 🚀 I’m currently learning **Firebase, React, Flutter, Backend APIs, and TypeScript**
 
@@ -23,7 +23,7 @@ Open Source Enthusiastic | Learning Prommpt Engineering & AI Integration  | </h3
 
 - 📧 Reach me: **palakolanudhanunjayreddy@gmail.com**
 
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1Zp-P_BI3cBnT_fVb1zIkocULXjHVPu-e/view?usp=drive_link)
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1JwYjnQHSYwqGHkytpOTPUs2yPCoAaGsA/view?usp=sharing)
 
 - ✨ Fun fact: **I enjoy turning real-life problems into smart web-based solutions!**
 
